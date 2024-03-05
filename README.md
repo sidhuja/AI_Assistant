@@ -1,8 +1,5 @@
 # Black Wings Hackathon AI_Assistant
 
-# Deployed using Netlify 
-https://ubiquitous-platypus-b94737.netlify.app/
-
 # Presentation Video with Audio 
 https://media.oregonstate.edu/media/t/1_0e9cpfap
 
